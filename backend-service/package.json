@@ -6,8 +6,8 @@
   "scripts": {
     "start": "nodemon server.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["MEAN", "NodeJS", "Express", "MongoDB", "Angular"],
+  "author": "NadetDev",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
