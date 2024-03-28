@@ -6,13 +6,21 @@
   "scripts": {
     "start": "nodemon server.js"
   },
-  "keywords": ["MEAN", "NodeJS", "Express", "MongoDB", "Angular"],
+  "keywords": [
+    "MEAN",
+    "NodeJS",
+    "Express",
+    "MongoDB",
+    "Angular"
+  ],
   "author": "NadetDev",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
+    "mongodb": "^6.5.0",
     "mongoose": "^8.2.4"
   },
   "devDependencies": {
